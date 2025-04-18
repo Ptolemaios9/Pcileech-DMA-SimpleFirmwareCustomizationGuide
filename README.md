@@ -7,7 +7,7 @@
 ### Emphasis
 * This guide teaches you to make your own firmware using open source projects instead of starting from scratch!
 
-* this guide step by step and you will definitely be able to create your own firmware!
+* This guide step by step and you will definitely be able to create your own firmware!
 
 * This guide the firmware made by  can meet your usage needs, please test it by yourself!
 
