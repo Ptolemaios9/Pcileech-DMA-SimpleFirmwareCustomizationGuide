@@ -75,7 +75,6 @@ The second BAES board fills in the offset offset address of the NIC read out by 
 
 The third BAR board fill Telesan read out the value of the network card's Base Address Register0~5, 04 and 04 end of the BAR after the BAR full F, for example, BAR1/BAR3/BAR5. because bar0 can not be 1 at the end of the 1 is on behalf of the 10, 0 is on behalf of the memory space to be changed to 0 bar2 and bar4 followed by the 4 or C is the 64-bit address, then bar3 and bar5 should be changed to all F.
 
-![image](https://github.com/user-attachments/assets/e9dfa690-15d8-4527-b2d4-57656306a84f)
 ![image](https://github.com/user-attachments/assets/97e46cd2-644f-45e4-b75f-77d1fbf784ec)
 
 The following one by one to check and find the changes, as shown in the figure against the modification of each place, Telesan read out the network card has to change to the corresponding value and open (FALSE to TRUE), there is no skip.
