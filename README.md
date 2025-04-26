@@ -9,8 +9,6 @@
 
 * The guide follow step by step, enough to make firmware for BE/EAC!
 
-* This guide the firmware made by  can meet your usage needs, please test it by yourself!
-
 * This guide uses descriptions that even primary school children can understand!
 
 ### How to get help
