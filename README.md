@@ -1,4 +1,4 @@
-# Pcileech-FirmwareCustomizationGuide
+# Pcileech-SimpleFirmwareCustomizationGuide
 
 **🤬I hate scammers who make crap firmware and sell it at inflated prices, and people who like to be vague in their guidelines.**
 
@@ -7,17 +7,15 @@
 ### Emphasis
 * This guide teaches you to make your own firmware using open source projects instead of starting from scratch!
 
-* The guide follow step by step, enough to make firmware for BE/EAC!
+* The guide follow step by step, enough to make firmware for BE!
 
 * This guide uses descriptions that even primary school children can understand!
 
 ### How to get help
 
-Official website：https://beater.solutions
-
 discord：https://discord.gg/beater
 
-🔥Beaters DC channel offers free firmware inside (including VMD which is overpriced by many firmware scammers lately，Many loser firmware distributors are angry because Beater has made VMD firmware available for free，Try to discredit Beater by claiming that the free firmware is unsafe so that users can buy their paid firmware.),BeaterFreeVMD play the games you want to play! There is also a faster and more convenient firmwareflash in the channel, which supports all RS232 and CH347 DMAcards!
+🔥Beaters DC channel offers free firmware (Many scammers firmware distributors are angry because Beater has made VMD firmware available for free，Try to discredit Beater by claiming that the free firmware is unsafe so that users can buy their paid Poor quality firmware.),BeaterFreeVMD play the games you want to play!VGK has implemented VMD detection not long ago, and EAC BE still runs well. Beater Never tried to sell VMD firmware solutions for profit.
 
 # Let's start making firmware！
 
